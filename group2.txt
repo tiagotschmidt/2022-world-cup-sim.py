@@ -1,5 +1,5 @@
 Argentina; 0; 293; 584
-Arábia Saudita; 0; 97; 240
-México; 0; 247; 518
-Polônia; 0; 224; 539
+Arábia Saudita; 3; 97; 240
+México; 1; 247; 518
+Polônia; 1; 224; 539
 

@@ -1,5 +1,5 @@
 Catar; 0; 82; 202
-Equador; 0; 90; 255
+Equador; 3; 90; 255
 Senegal; 0; 75; 183
-Holanda; 0; 191; 457
+Holanda; 3; 191; 457
 
