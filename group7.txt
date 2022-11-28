@@ -1,5 +1,5 @@
-Portugal; 3; 113; 286
-Gana; 0; 78; 221
+Portugal; 6; 113; 286
+Gana; 3; 78; 221
 Uruguai; 1; 199; 508
 Coreia do Sul; 1; 184; 387
 

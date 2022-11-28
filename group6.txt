@@ -1,5 +1,5 @@
-Brasil; 3; 347; 529
-Sérvia; 0; 29; 72
+Brasil; 6; 347; 529
+Sérvia; 1; 29; 72
 Suíça; 3; 156; 469
-Camarões; 0; 57; 206
+Camarões; 1; 57; 206
 
