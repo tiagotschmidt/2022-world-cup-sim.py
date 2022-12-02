@@ -1,5 +1,0 @@
-Inglaterra; 7; 233; 426
-Irã; 3; 92; 195
-Estados Unidos; 5; 159; 423
-Gales; 1; 50; 163
-

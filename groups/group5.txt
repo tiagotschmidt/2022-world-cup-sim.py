@@ -1,5 +1,5 @@
-Bélgica; 3; 172; 464
+Bélgica; 4; 172; 464
 Canadá; 0; 69; 220
-Marrocos; 4; 103; 226
-Croácia; 4; 71; 148
+Marrocos; 7; 103; 226
+Croácia; 5; 71; 148
 

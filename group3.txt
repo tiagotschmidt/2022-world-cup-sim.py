@@ -1,5 +1,0 @@
-França; 7; 223; 505
-Austrália; 6; 144; 311
-Dinamarca; 1; 250; 539
-Tunísia; 4; 102; 276
-

@@ -6,10 +6,10 @@ Argentina; 6; 293; 584
 Polônia; 4; 224; 539
 França; 6; 223; 505
 Austrália; 6; 144; 311
+Japão; 6; 104; 250
 Espanha; 4; 183; 343
-Alemanha; 4; 309; 586
+Marrocos; 7; 103; 226
 Croácia; 4; 71; 148
-Marrocos; 4; 103; 226
 Brasil; 6; 347; 529
 Suíça; 3; 156; 469
 Portugal; 6; 113; 286
