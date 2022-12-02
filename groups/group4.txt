@@ -1,0 +1,5 @@
+Espanha; 4; 183; 343
+Costa Rica; 3; 77; 244
+Alemanha; 1; 309; 586
+Japão; 3; 104; 250
+

@@ -1,0 +1,16 @@
+Holanda; 7; 191; 457
+Senegal; 6; 75; 183
+Inglaterra; 7; 233; 426
+Estados Unidos; 5; 159; 423
+Argentina; 6; 293; 584
+Polônia; 4; 224; 539
+França; 6; 223; 505
+Austrália; 6; 144; 311
+Espanha; 4; 183; 343
+Alemanha; 4; 309; 586
+Croácia; 4; 71; 148
+Marrocos; 4; 103; 226
+Brasil; 6; 347; 529
+Suíça; 3; 156; 469
+Portugal; 6; 113; 286
+Gana; 3; 78; 221
