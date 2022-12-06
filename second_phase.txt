@@ -11,6 +11,6 @@ Espanha; 4; 183; 343
 Marrocos; 7; 103; 226
 Croácia; 4; 71; 148
 Brasil; 6; 347; 529
-Suíça; 3; 156; 469
+Suíça; 6; 156; 469
 Portugal; 6; 113; 286
-Gana; 3; 78; 221
+Coreia do Sul; 4; 184; 387
